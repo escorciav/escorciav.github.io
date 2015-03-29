@@ -1,0 +1,158 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass[margin]{res} 
+% the margin option causes section titles to appear to the left of body text 
+\textwidth=5.2in % increase textwidth to get smaller right margin
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+\begin{document} 
+ 
+\name{Victor A. Escorcia\\[12pt]} % the \\[12pt] adds a blank line after name
+ 
+\address{{\bf Present Address} \\ Al Khawarizmi Building (Bldg 1), 2106-WS06
+          \\ Thuwal 23955-6900, Kingdom of Saudi Arabia}
+\address{{\bf Contact} \\ escorciav@gmail.com \\ +966 56 948 5932}
+ 
+\begin{resume} 
+ 
+\section{Research} 
+Computer Vision, Machine Learning, Data Science.
+
+
+\section{Education}
+\textbf{Universidad del Norte} \textit{(Barranquilla, Colombia)}, February 2014 \\
+M.Sc. in Electronic Engineering\\
+\bigskip Adviser: Professor Juan Carlos Niebles\\
+\textbf{Universidad del Norte} \textit{(Barranquilla, Colombia)}, September 2012 \\
+B.Eng., Electrical Engineering\\
+\textbf{Universidad del Norte} \textit{(Barranquilla, Colombia)}, February 2012 \\
+B.Eng., Electronic Engineering\\
+ 
+
+\section{Experience}
+ \textit{Visiting Student}\\
+ Visual Computing Center, King Abdullah University of Science and Technology.
+ Saudi Arabia. \hfill March 2014 - Present \\
+ \begin{itemize} \itemsep -2pt %reduce space between items 
+ \item Developing algorithms for performing human action recognition and human
+       tracking using multiple cameras.
+ \item Perform research activities e.g. analyze recent literature in computer
+       vision, equipment selection, leading reading sessions, etc.
+ \end{itemize}
+ 
+ \textit{Research Assistant}\\
+ Computer Vision Lab, Universidad del Norte, Colombia. \hfill February 2012 - 2014 \\
+ \begin{itemize} \itemsep -2pt %reduce space between items 
+  \item Developing algorithms for performing human action recognition using
+ human-object interactions as cues.
+ \item Perform research activities e.g. analyze recent literature in computer
+       vision, equipment selection, leading reading sessions, etc.
+ \end{itemize}
+ 
+ \textit{Peer Tutor}\\
+ CREE, Universidad del Norte, Colombia \hfill January  2009 - 2011 \\
+ \begin{itemize} \itemsep -2pt %reduce space between items
+  \item Led review sessions for MAT1111: Single Variable Calculus, FIS1033:
+ Physics II: Electricity and Magnetism, IEN4030: Analog Electronics,
+ IEN7140: Power Electronics.
+  \end{itemize}
+
+%{\bf System Consultant,} Fleet Van Lines, Bayridge, NY \hfill  Summer 1984
+%\begin{itemize} \itemsep -2pt %reduce space between items
+%\item Researched, implemented new computer accounting 
+%                 system 
+%\item Customized existing software for inventory 
+%                 management 
+%\item Trained employees on both accounting and inventory 
+%                 systems 
+%\end{itemize}
+
+
+\section{Publications} 
+\begin{itemize} \itemsep -2pt %reduce space between items
+\item Victor Escorcia, Juan Carlos Niebles. \textbf{Spatio-Temporal 
+Human-Object Interactions for Action Recognition in Videos}. International
+Conference on Computer Vision, 1st Workshop on Understanding Human Activities:
+Context and Interactions. Sydney, Australia, December 2013.
+\smallskip
+
+\textit{Abstract:} We introduce a new method for representing the dynamics of
+human-object interactions in videos. Previous algorithms tend to focus on
+modeling the spatial relationships between objects and actors, but ignore the
+evolving nature of this relationship through time. Our algorithm captures the
+dynamic nature of human-object interactions by modeling how these patterns
+evolve with respect to time. Our experiments show that encoding such temporal
+evolution is crucial for correctly discriminating human actions that involve
+similar objects and spatial human-object relationships, but only differ on the
+temporal aspect of the interaction, e.g. answer phone and dial phone.
+We validate our approach on two human activity datasets and show performance
+improvements over competing state-of-the-art representations.
+\medskip
+
+\item Victor Escorcia, Maria Davila, Mani Golparvar-Fard and Juan Carlos
+Niebles. \textbf{Automated Vision-based Recognition of Construction Worker
+Actions for Building Interior Construction Operations Using RGBD Cameras}.
+Construction Research Congress 2012. West Lafayette, Indiana, May 2012.
+\smallskip
+
+\textit{Abstract:} In this paper we present a novel method for reliable
+recognition of construction workers and their actions using color and depth
+data from a Microsoft Kinect sensor. Our algorithm is based on machine learning
+techniques, in which meaningful visual features are extracted based on the
+estimated body pose of workers. We adopt a bag-of-poses representation for
+worker actions and combine it with powerful discriminative classifiers to
+achieve accurate action recognition. The discriminative framework is able to
+focus on the visual aspects that are distinctive and can detect and recognize
+actions from different workers. We train and test our algorithm by using 80
+videos from four workers involved in five drywall related construction
+activities. These videos were all collected from drywall construction
+activities inside of an under construction dining hall facility. The proposed
+algorithm is further validated by recognizing the actions of a construction
+worker that was never seen before in the training dataset. Experimental
+results show that our method achieves an average precision of 85.28 percent.
+The results reflect the promise of the proposed method for automated assessment
+of craftsmen productivity, safety, and occupational health at indoor
+environments.
+
+\end{itemize}
+               
+
+\section{Honors and Awards}
+Scientific Diploma to the master thesis graded as Cum Laude.
+Universidad del Norte. Barranquilla, Colombia. February 2014.
+
+Joven Investigador Scholarship to support young researchers.
+Colciencias \& Universidad del Norte. Barranquilla, Colombia. February 2013.
+
+Silver Medal to the Graduate of Excellence of Electrical Engineering.
+GPA 4.55/5.0, ranked ${1^{{\rm{st}}}}$ in graduating class over 15.
+Universidad del Norte. Barranquilla, Colombia. September 2012.
+
+Silver Medal to the Graduate of Excellence of Electronic Engineering.
+GPA 4.55/5.0, ranked ${1^{{\rm{st}}}}$ in graduating class over 40.
+Universidad del Norte. Barranquilla, Colombia. February 2012.
+
+Dean's List. Universidad del Norte. Barranquilla, Colombia. 2007-2011.
+
+Roble Amarillo Scholarship. Universidad del Norte. 
+Barranquilla, Colombia. 2007-2011.
+
+Outstanding High School Graduate. Instituto La-Salle, Alumni Association.
+Barranquilla, Colombia. 2006.
+
+
+% Tabulate Computer Skills; p{3in} defines paragraph 3 inches wide
+\section{Computer \\ Skills}
+   \begin{tabular}{l p{3in}}
+    \underline{Languages}: & Matlab, Python (Intermediate), C++ (Basic). \\
+
+    \underline{Software}: & Git, LaTeX, Microsoft Office, AutoCAD, Illustrator (Basic). \\
+    
+    \underline{Operative Systems}: & Windows, Linux. \\
+ \end{tabular}
+
+\end{resume} 
+\end{document} 
+
