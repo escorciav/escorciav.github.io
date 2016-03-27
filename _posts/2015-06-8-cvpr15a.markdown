@@ -10,4 +10,4 @@ One of the cornerstone principles of deep models is their abstraction capacity, 
 
 Among the findings we uncover, we show empirical evidence of the existence of Attribute Centric Nodes (ACNs) within a conv-net, which is trained to recognize objects (not attributes) in images. These special conv-net nodes (1) collectively encode information pertinent to visual attribute representation and discrimination, (2) are unevenly and sparsely distribution across all layers of the conv-net, and (3) play an important role in conv-net based object recognition.
 
-[Extended-abstract](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1B_016_ext.pdf), [Video](https://drive.google.com/open?id=0B0ZXjo_p8lHBb3dDakFpNXRrUkU), [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Escorcia_On_the_Relationship_2015_CVPR_paper.pdf)
+[Extended abstract](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/1B_016_ext.pdf), [Video](https://drive.google.com/open?id=0B0ZXjo_p8lHBb3dDakFpNXRrUkU), [Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Escorcia_On_the_Relationship_2015_CVPR_paper.pdf)
