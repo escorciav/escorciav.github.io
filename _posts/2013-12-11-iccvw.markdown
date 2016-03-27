@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Submarine"
-date:   2016-02-01 15:08:10 -0500
+title:  "Spatio-Temporal Human-Object Interactions for Action Recognition in Videos"
+date:   2013-12-11 15:08:10 -0500
 img: img/portfolio/submarine.png
-modalID: modalSubmarine
-category: Design
+modalID: cvHOIvideos2013
+category: Computer Vision
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+We introduce a new method for representing the dynamics of human-object interactions in videos. Previous algorithms tend to focus on modeling the spatial relationships between objects and actors, but ignore the evolving nature of this relationship through time. Our algorithm captures the dynamic nature of human-object interactions by modeling how these patterns evolve with respect to time. Our experiments show that encoding such temporal evolution is crucial for correctly discriminating human actions that involve similar objects and spatial human-object relationships, but only differ on the temporal aspect of the interaction, e.g. answer phone and dial phone.
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+[Project page](http://www.niebles.net/iccvw13), [Paper](https://dl.dropboxusercontent.com/u/34643931/papers/ST_HOI_videos.pdf)
