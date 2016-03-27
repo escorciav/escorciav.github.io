@@ -1,0 +1,11 @@
+---
+layout: post
+title: Automated Vision-based Recognition of Construction Worker Actions Using RGBD Cameras
+date:   2012-05-29 00:00:00 -0500
+img: img/portfolio/circus.png
+modalID: cvActionRecognitionRGBD2012
+category: Computer Vision
+---
+We present a novel method for reliable recognition of construction workers and their actions using color and depth data from a Microsoft Kinect sensor. Our algorithm is based on machine learning techniques, in which meaningful visual features are extracted based on the estimated body pose of workers. We adopt a bag-of-poses representation for worker actions and combine it with powerful discriminative classifiers to achieve accurate action recognition. The discriminative framework is able to focus on the visual aspects that are distinctive and can detect and recognize actions from different workers. Experimental results show that our method achieves an average precision of 85.28 percent. The results reflect the promise of the proposed method for automated assessment of craftsmen productivity, safety, and occupational health at indoor environments.
+
+[Paper](https://drive.google.com/open?id=0B0ZXjo_p8lHBS1RReEFZa1Y3TGM)
