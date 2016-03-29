@@ -10,14 +10,14 @@ title: Victor Escorcia
 email: victor.escorcia@kaust.edu.sa
 description: > # this means to ignore newlines until "baseurl:"
   Computer Vision Scientist - Machine Learning Practitioner - Engineer
-baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "escorciav.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
 github_username:  escorciav
 facebook_username: victor.escorcia.castillo
+google_plus_username: 114176447295025597712
 #twitter_username: 3scorciav
-#googleplus_username: escorciav
 
 # Address information
 address_street: 4700 KAUST
