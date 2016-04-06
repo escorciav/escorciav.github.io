@@ -2,7 +2,8 @@
 layout: post
 title:  ActivityNet&#58; A Large-Scale Video Benchmark for Human Activity Understanding
 date:   2015-06-07 00:00:00 -0500
-img: img/portfolio/game.png
+img: img/portfolio/cvpr15b.png
+img_modal: img/portfolio/cvpr15b.png
 modalID: cvActivitynet2015
 category: Computer Vision
 ---

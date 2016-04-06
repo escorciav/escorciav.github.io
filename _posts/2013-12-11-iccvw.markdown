@@ -2,7 +2,8 @@
 layout: post
 title:  "Spatio-Temporal Human-Object Interactions for Action Recognition in Videos"
 date:   2013-12-11 15:08:10 -0500
-img: img/portfolio/submarine.png
+img: img/portfolio/iccvw13.png
+img_modal: img/portfolio/iccvw13_modal.png
 modalID: cvHOIvideos2013
 category: Computer Vision
 ---

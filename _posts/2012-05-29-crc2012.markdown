@@ -2,7 +2,8 @@
 layout: post
 title: Automated Vision-based Recognition of Construction Worker Actions Using RGBD Cameras
 date:   2012-05-29 00:00:00 -0500
-img: img/portfolio/circus.png
+img: img/portfolio/crc2012.png
+img_modal: img/portfolio/crc2012.png
 modalID: cvActionRecognitionRGBD2012
 category: Computer Vision
 ---
