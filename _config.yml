@@ -27,3 +27,6 @@ address_zip: 23955-6900
 
 # Build settings
 markdown: kramdown
+
+# My variables
+cv_url: https://drive.google.com/open?id=0B0ZXjo_p8lHBbVkzLXk5UWplUkU
