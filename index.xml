@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor on Victor</title>
+    <link>https://escorciav.github.io/</link>
+    <description>Recent content in Victor on Victor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diagnosing Error in Temporal Action Detectors</title>
+      <link>https://escorciav.github.io/publication/detad/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/detad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guess Where? Actor-Supervision for Spatiotemporal Action Localization</title>
+      <link>https://escorciav.github.io/publication/actor_supervision/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/actor_supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos</title>
+      <link>https://escorciav.github.io/publication/sstad/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/sstad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCC: Semantic Context Cascade for Efficient Action Detection</title>
+      <link>https://escorciav.github.io/publication/scc/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/scc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SST: Single-Stream Temporal Action Proposals</title>
+      <link>https://escorciav.github.io/publication/sst/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/sst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAPs: Deep Action Proposals for Video Understanding</title>
+      <link>https://escorciav.github.io/publication/daps/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/daps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Relationship between Visual Attributes and Convolutional Networks</title>
+      <link>https://escorciav.github.io/publication/acn/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/acn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ActivityNet: A Large-Scale Video Benchmark for Human Activity Understanding</title>
+      <link>https://escorciav.github.io/publication/activitynet/</link>
+      <pubDate>Sun, 21 Jun 2015 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/activitynet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Human-Object Interactions for Action Recognition in Videos</title>
+      <link>https://escorciav.github.io/publication/hoi_videos/</link>
+      <pubDate>Sat, 21 Dec 2013 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/hoi_videos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Vision-based Recognition of Construction Worker Actions Using RGBD Cameras</title>
+      <link>https://escorciav.github.io/publication/action_kinect/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/action_kinect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

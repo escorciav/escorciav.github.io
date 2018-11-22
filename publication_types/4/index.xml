@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Victor</title>
+    <link>https://escorciav.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Victor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 Jan 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://escorciav.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guess Where? Actor-Supervision for Spatiotemporal Action Localization</title>
+      <link>https://escorciav.github.io/publication/actor_supervision/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0300</pubDate>
+      
+      <guid>https://escorciav.github.io/publication/actor_supervision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
